@@ -11,7 +11,7 @@
                 t-att-disabled="chatter.isDisabled"
                 t-on-click="_onListActivity"
             >
-                 <i class="fa fa-list" />Activities
+                 <i class="fa fa-list" /> Activities
               </button>
          </xpath>
     </t>
